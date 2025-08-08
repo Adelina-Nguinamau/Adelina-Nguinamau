@@ -1,6 +1,5 @@
 ## Hi I'm Adelina. 👋
 
-<!--
 # 👩🏻‍💻 Adelina Nguinamau
 
 **`Desenvolvedora Front-end`**
@@ -81,4 +80,4 @@ Me chamo Adelina Camata, tenho 20 anos e sou natural de Luanda (Angola). Termine
 </p>
 
 
--->
+
