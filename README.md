@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Adelina Nguinamau
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedora de Software`**
 
 Chamo-me Adelina Nguinamau Camata, tenho 20 anos e sou natural de Luanda (Angola). Terminei o último ano do ensino médio no Colégio Árvore da Felicidade, onde fiz o curso de técnico em informática. Atualmente, estou estudando tecnologias que me ajudem a melhorar às minhas habilidades como desenvolvedora front-end. Sou apaixonada por tecnologia e acredito que através dela posso fazer a diferença e de algum modo tornar o mundo melhor!
 
