@@ -34,15 +34,36 @@ Chamo-me Adelina Nguinamau Camata, tenho 20 anos e sou natural de Luanda (Angola
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+
+
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
 
 
 <img 
